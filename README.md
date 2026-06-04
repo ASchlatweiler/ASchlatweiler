@@ -9,7 +9,9 @@ Compliance-driven instincts from financial services, applied to software quality
 
 **Grimoire** - A read-only MCP server that gives Claude live access to UE5 project state.
 Blueprints, variables, functions, event graphs, materials, structs, and Data Assets -
-via SQLite caching, TCP bridge, and T3D parsing. Public release coming soon.
+via SQLite caching, TCP bridge, and T3D parsing. 
+
+V0.9.0 Available Now
 
 ## Areas of Focus
 
