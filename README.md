@@ -1,26 +1,22 @@
 # Alex Schlatweiler
 
-QA Engineer / Systems Developer based in New Orleans, LA.
+AI infrastructure, Tooling, and Independent ML Researcher
 
-Background in Python, pytest, Playwright, and Unreal Engine 5 systems development.
-Compliance-driven instincts from financial services, applied to software quality.
+Building agent systems, MCP servers, and the substrate that makes them reliable.
 
 ## Currently Shipping
 
-**Grimoire** - A read-only MCP server that gives Claude live access to UE5 project state.
-Blueprints, variables, functions, event graphs, materials, structs, and Data Assets -
-via SQLite caching, TCP bridge, and T3D parsing. 
-
-V0.9.0 Available Now
+**Grimoire** - live read-only MCP server for UE5 Blueprint introspection. v0.9.0
 
 ## Areas of Focus
 
-- QA automation & test harness development
-- Gameplay systems validation
-- AI tooling & MCP server development
-- Independent ML research
+- Agent infrastructure & deployment protocols
+- MCP server development
+- Reinforcement learning research
+- AI governance & review systems
 
 ## Connect
 
+- Based in New Orleans, LA.
 - Email: AlexSchlatweiler@gmail.com
 - LinkedIn: [linkedin.com/in/alexschlatweiler](https://www.linkedin.com/in/alex-schlatweiler-780a7a3b5/)
